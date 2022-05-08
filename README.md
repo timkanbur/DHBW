@@ -6,14 +6,18 @@ Um vor allem größere zusammenhängende Themenbereiche besser zu verstehen, mac
 **Digitaltechnik:**
 1. Zusammenfassung
      - Junktoren
-     - Bauteie
+     - Bauteile
+     - Eingangsarten und Pegel
      - FlipFlops
      - Register/Zähler
      - Zahlensysteme
      - Normalformen
      - Hazards/Glitches
+     - Standartbaugruppen
+     - Ringzähler
      - Automaten
-     - Weitere Themen werden noch ergänzt
+     - Dioden/Transistoren
+     - Diagramme/Tabellen
  
 [Zusammenfassung 1 =>](https://github.com/timkanbur/DHBW/blob/main/Digitaltechnik%20Zusammenfassung.pdf)
 
