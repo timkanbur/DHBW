@@ -19,7 +19,7 @@ Um vor allem größere zusammenhängende Themenbereiche besser zu verstehen, mac
      - Dioden/Transistoren
      - Diagramme/Tabellen
  
-[Zusammenfassung 1 =>](https://github.com/timkanbur/DHBW/blob/main/Digitaltechnik%20Zusammenfassung.pdf)
+          [Zusammenfassung =>](https://github.com/timkanbur/DHBW/blob/main/Digitaltechnik%20Semester%201/Zusammenfassung.pdf)
 
 
 
@@ -28,9 +28,25 @@ Um vor allem größere zusammenhängende Themenbereiche besser zu verstehen, mac
      - Konvergenz von Folgen
      - Konvergenz von Reihen
 
-[Folgen und Reihen =>](https://github.com/timkanbur/DHBW/blob/main/Mathe-Folgen%20und%20Reihen.pdf)
+          [Folgen und Reihen =>](https://github.com/timkanbur/DHBW/blob/main/Mathematik%20Semester%202/Folgen%20und%20Reihen.pdf)
 
 
+
+2. Stetigkeit und Differenzierbarkeit:
+     - Stetigkeit von Funktionen
+     - Differenzierbarkeit von Funktionen
+     - (Integrale)
+
+          [Stetigkeit und Differenzierbarkeit =>](https://github.com/timkanbur/DHBW/blob/main/Mathematik%20Semester%202/Stetigkeit-Differenzierbarkeit.pdf)
+
+**Kryptologie:**
+1. Zusammenfassung:
+     - Algebraische Strukturen
+     - Elliptische Kurven
+     - Arten von Verschlüsselungen
+     - Grundlagen der Kryptologie
+
+          [Zusammenfassung =>](https://github.com/timkanbur/DHBW/blob/main/Kryptologie%20Semester%202/Zusammenfassung.pdf)
 
 ## Unterstützung
 Sollte sich in den Zusammenfassungen ein Fehler befinden, gerne als Issue posten. Ich versuche es dann schnellstmöglich zu ändern. 
